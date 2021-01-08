@@ -34,14 +34,14 @@ table {
 
 /*-- start editing from here --*/
 a {
-  text-decoration: none;
+  text-decoration:  none;
 }
 
 .txt-rt {
   text-align: right;
 }
 
-/* text align right */
+/* text align right  */
 .txt-lt {
   text-align: left;
 }
